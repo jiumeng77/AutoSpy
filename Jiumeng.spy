@@ -433,7 +433,7 @@ js_config:
   Env: M_WX_SHARE_URL
   KeyWord:
   - - M_WX_SHARE_URL
-  Name: 【M系l】M分享有礼
+  Name: 【M系】M分享有礼
   Script: walle1798_WALL.E/m_jd_wx_share.js
   TimeOut: 0
   Wait: 2
