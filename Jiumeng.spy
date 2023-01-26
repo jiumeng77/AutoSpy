@@ -557,17 +557,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_lzkj_wxShopFollowActivity_activityId
-  KeyWord:
-  - - jd_lzkj_wxShopFollowActivity_activityId
-  - - jd_wxShopFollowActivity_activityUrl
-  Name: 【Faker】lzkj关注店铺有礼
-  RegularRules: 'lzkj@[\d|a-z]{32}@0'
-  Script: shufflewzc_faker2_main/jd_lzkj_wxShopFollowActivity.js
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Env: jd_cjhy_wxShopGift_ids
   KeyWord:
   - - jd_cjhy_wxShopGift_ids
