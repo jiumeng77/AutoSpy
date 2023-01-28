@@ -50,7 +50,7 @@ js_config:
   Wait: 5
 - Container:
   - []
-  Env: jd_lzkjInteractId
+  Env: jd_lzkjInteractUrl
   KeyWord:
   - - jd_lzkjInteractUrl
   Name: 【船长】Interact邀请有礼
