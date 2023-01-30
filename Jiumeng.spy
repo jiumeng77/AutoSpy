@@ -246,17 +246,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_cjhy_wxCollectionActivityId
-  KeyWord:
-  - - jd_cjhy_wxCollectionActivityId
-  - - jd_wxCollectionActivity_activityUrl
-  Name: 【抽奖】cjhy加购物车
-  RegularRules: 'cjhy@[\d|a-z]{32}@0'
-  Script: shufflewzc_faker2_main/jd_cjhy_wxCollectionActivity.js
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Env: jd_wxCollectCard_activityId
   KeyWord:
   - - jd_wxCollectCard_activityId
