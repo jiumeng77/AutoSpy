@@ -228,24 +228,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_cjhy_activityId
-  KeyWord:
-  - - jd_cjhy_activityId
-  Name: 【组队】CJ瓜分京豆
-  Script: shufflewzc_faker2_main/jd_cjzdgf.js
-  TimeOut: 0
-  Wait: 5
-- Container:
-  - []
-  Env: jd_zdjr_activityId
-  KeyWord:
-  - - jd_zdjr_activityId
-  Name: 【组队】ZJ瓜分京豆
-  Script: shufflewzc_faker2_main/jd_zdjr.js
-  TimeOut: 0
-  Wait: 5
-- Container:
-  - []
   Env: PKC_TXGZYL
   KeyWord:
   - - PKC_TXGZYL
